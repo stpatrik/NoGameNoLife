@@ -87,8 +87,8 @@ a {
     height:auto;
     background-color: #00a2ff45;
     border-radius: 50px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     margin-bottom: 50px;
 }
 
@@ -97,8 +97,8 @@ a {
     height:auto;
     background-color: #c8ff0045;
     border-radius: 50px;
-    padding-top:10px;
-    padding-bottom: 10px;
+    padding-top:50px;
+    padding-bottom: 50px;
     margin-bottom: 50px;
 }
 </style>
