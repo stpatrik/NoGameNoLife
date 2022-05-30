@@ -34,6 +34,10 @@
 
 
 <style>
+body {
+    margin: 0px;
+    padding: 0px;
+}
 .content-container {
     margin-left: 12%;
     margin-right: 12%;
@@ -93,13 +97,16 @@ a {
 }
 
 .YellowBackground {
-    width: 70%;
+    width: 80%;
     height:auto;
     background-color: #c8ff0045;
     border-radius: 50px;
     padding-top:50px;
     padding-bottom: 50px;
     margin-bottom: 50px;
+    margin-left: 10%;
+    margin-right: 10%;
+
 }
 </style>
 

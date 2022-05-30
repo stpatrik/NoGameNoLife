@@ -37,24 +37,19 @@ header {
 }
 
 .flex-container {
-    padding-left: 10%;
-    padding-right: 10%;
-    padding-top: 90px;
-    display: flex;
     text-align: center;
+    vertical-align: middle;
+    display: flex;
+}
+.flex-container a { 
+    text-align: center;
+    vertical-align: middle;
+    
 }
 
 .img-logo {
     bottom: 10px;
     margin-right: 160px;
-}
-
-.flex-container a {
-    padding-top: 20px;
-    margin-right: 40px;
-    margin-left: 40px;
-
-
 }
 
 .last {
