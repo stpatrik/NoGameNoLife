@@ -44,7 +44,7 @@ header {
 .flex-container a { 
     text-align: center;
     vertical-align: middle;
-    
+    margin-top: 20px;
 }
 
 .img-logo {
@@ -53,7 +53,6 @@ header {
 }
 
 .last {
-    padding-top: 20px;
     margin-right: 0px;
     margin-left: 0px;
     padding-left: 140px;
@@ -61,7 +60,8 @@ header {
 }
 
 .img-login {
-    margin-left: 0;
+    margin-top: 5px;
+    margin-left: 6px;
 
 }
 
